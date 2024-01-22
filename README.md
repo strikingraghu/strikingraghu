@@ -6,16 +6,16 @@
 
 10 GitHub repositories every programmer must know:
 
-01. Build your own X: https://lnkd.in/gM6pEYvk
-02. Developer roadmap: https://lnkd.in/gTkgk9Rk
-03. Every programmer should know: https://lnkd.in/guA6iQer
-04. Free programming books: https://lnkd.in/gyZ3EWVJ
-05. The Algorithms: https://lnkd.in/gXuQ6x7z
-06. Tech Interview handbook: https://lnkd.in/gUFnnSPh
-07. Coding Interview university: https://lnkd.in/g5JGFpnW
-08. System Design primer: https://lnkd.in/gaVjm6v5
-09. freeCodeCamp: https://lnkd.in/gt5NaRG7
-10. Public APIs: https://lnkd.in/gsgHf5em
+- Build your own X: https://lnkd.in/gM6pEYvk
+- Developer roadmap: https://lnkd.in/gTkgk9Rk
+- Every programmer should know: https://lnkd.in/guA6iQer
+- Free programming books: https://lnkd.in/gyZ3EWVJ
+- The Algorithms: https://lnkd.in/gXuQ6x7z
+- Tech Interview handbook: https://lnkd.in/gUFnnSPh
+- Coding Interview university: https://lnkd.in/g5JGFpnW
+- System Design primer: https://lnkd.in/gaVjm6v5
+- freeCodeCamp: https://lnkd.in/gt5NaRG7
+- Public APIs: https://lnkd.in/gsgHf5em
 
 <!---
 strikingraghu/strikingraghu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
